@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anhar Sandova</h1>
-<h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
+<h1 align="center">Hi, I'm Megadhana</h1>
+<h3 align="center">3D Artist & Web Dev 🐧</h3>
 
 
 
